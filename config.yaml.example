@@ -1,0 +1,5 @@
+settings:
+  token:
+  name:
+  botName:
+  subscribersFile: subscribers.json
